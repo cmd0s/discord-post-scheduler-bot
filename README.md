@@ -17,7 +17,7 @@ This bot is designed to automatically post messages in a specific Discord channe
 ### 1. Clone the Repository
 First, clone the repository to your local machine:
 ```sh
-git clone [<repository-url>](https://github.com/cmd0s/discord-post-scheduler-bot.git)
+git clone https://github.com/cmd0s/discord-post-scheduler-bot.git
 cd discord-post-scheduler-bot
 ```
 

@@ -10,7 +10,7 @@ This bot is designed to automatically post messages in a specific Discord channe
 ## Requirements
 - Python 3.8+ installed on your system.
 - Discord account and a bot token from the Discord Developer Portal.
-- The `discord.py` library.
+- The `discord` library.
 
 ## Setup and Installation
 
